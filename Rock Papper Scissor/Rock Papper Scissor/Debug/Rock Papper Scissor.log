@@ -1,0 +1,3 @@
+﻿  Game.cpp
+c:\users\tori noob\source\repos\rock papper scissor\rock papper scissor\game.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Rock Papper Scissor.vcxproj -> C:\Users\tori noob\source\repos\Rock Papper Scissor\Debug\Rock Papper Scissor.exe
