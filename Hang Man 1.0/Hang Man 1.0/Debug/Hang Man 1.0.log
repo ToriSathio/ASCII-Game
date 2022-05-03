@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\tori noob\source\repos\Finished Game\Hang Man 1.0\Hang Man 1.0\Source.cpp(5,23): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\tori noob\source\repos\Finished Game\Hang Man 1.0\Hang Man 1.0\Source.cpp(5,153): warning C4305:  'initializing': truncation from 'int' to 'char'
+C:\Users\tori noob\source\repos\Finished Game\Hang Man 1.0\Hang Man 1.0\Source.cpp(5,23): warning C4309:  'initializing': truncation of constant value
+C:\Users\tori noob\source\repos\Finished Game\Hang Man 1.0\Hang Man 1.0\Source.cpp(27,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\tori noob\source\repos\Finished Game\Hang Man 1.0\Hang Man 1.0\Source.cpp(40,20): warning C4018:  '<': signed/unsigned mismatch
+  Hang Man 1.0.vcxproj -> C:\Users\tori noob\source\repos\Finished Game\Hang Man 1.0\Debug\Hang Man 1.0.exe
